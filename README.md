@@ -16,8 +16,8 @@ My shenanigans while learning deep learning with PyTorch. This repository contai
 ## Getting Started
 
 ### Requirements
-Make sure you have Python 3.x and the following packages installed:
-torch
-torchvision
-numpy
-matplotlib
+I had Python 3.11.8 and the following packages installed:
+`torch`
+`torchvision`
+`numpy`
+`matplotlib`
